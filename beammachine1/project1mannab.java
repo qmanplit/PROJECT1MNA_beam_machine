@@ -1,4 +1,4 @@
-
+//hello this is project1
 package beammachine1;
 import java.util.Scanner;
 
